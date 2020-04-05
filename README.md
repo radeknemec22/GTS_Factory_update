@@ -32,3 +32,8 @@ To install environments manually, open command line as administrator and navigat
 
 ## How to use the script
 Will be added later.
+
+To run the script, open command line as administrator and navigate to the directory with the files and execute following commands:<br>
+conda activate GTSAutomation<br>
+jupyter-notebook<br>
+
