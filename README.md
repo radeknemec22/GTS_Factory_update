@@ -19,12 +19,12 @@ Not supported yet.
 ### Manual installation and activation
 To install environments manually, open command line as administrator and navigate to the directory with .yml file
 - Install with internet
-	- To create new environment, use the following command:
-	  conda env create --name GTSAutomation --file environment.yml
+	- To create new environment, use the following command:<br>
+	  conda env create --name GTSAutomation --file environment.yml<br>
 	  (conda env create --name \<name\> --file \<name\>.yml)
 
-	- To activate the environment, use the following command:
-	  conda activate GTSAutomation
+	- To activate the environment, use the following command:<br>
+	  conda activate GTSAutomation<br>
 	  (conda activate \<env_name\>)
 
 - Install with conda-pack (distributable)
