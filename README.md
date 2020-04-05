@@ -10,13 +10,7 @@ Run the executable (Miniconda3-4.7.12-Windows-x86_64.exe) as administrator to in
 - Add Anaconda to the system PATH: yes
 - Register Anaconda as the system Python 3.7: yes
 
-## Install conda environment
-Conda environtments can either be installed with the batch-files of manually.
-
-### With batch file
-Not supported yet.
-
-### Manual installation and activation
+## Environment installation and activation
 To install environments manually, open command line as administrator and navigate to the directory with .yml file
 - Install with internet
 	- To create new environment, use the following command:<br>
