@@ -26,9 +26,12 @@ To install environments manually, open command line as administrator and navigat
 	- To activate the environment, use the following command:<br>
 	  conda activate GTSAutomation<br>
 	  (conda activate \<env_name\>)
+	  
+	- For more information [CLICK HERE](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#removing-an-environment)
 
 - Install with conda-pack (distributable)
 	- See https://conda.github.io/conda-pack/
+	
 
 ## How to use the script
 Will be added later.
