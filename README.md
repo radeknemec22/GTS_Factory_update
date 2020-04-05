@@ -6,7 +6,7 @@ Repository containing [Miniconda3](https://docs.conda.io) environment used for G
 
 Run the executable as administrator to install Miniconda with following options:
 - Install for: All users
-- Install directory: C:\Miniconda3<br>
+- Install directory: C:\Miniconda3
 - Add Anaconda to the system PATH: yes
 - Register Anaconda as the system Python 3.7: yes
 
@@ -19,15 +19,11 @@ Not supported yet.
 ### Manual installation
 To install environments manually, open command line as administrator.
 - Install with internet
-	- To create new environment, use one of the following commands:<br>
- 	  conda env create --name \<name\> --file \<name\>.yml<br>
-	  or<br>
-      conda create --name \<name\> --file \<name\>.condaenv [-c \<channel\>]
+	- To create new environment, use one of the following commands:
+ 	  conda env create --name \<name\> --file \<name\>.yml
 
-	- To update and environment (e.g. root/base (= \<name\>)), use one of the following commands:<br>
-	  conda env update --name \<name\> --file \<filename\>.yml<br>
-	  or<br>
-	  conda install --name \<name\> --file \<filename\>.condaenv [-c \<channel\>]
+	- To update and environment (e.g. root/base (= \<name\>)), use one of the following commands:
+	  conda env update --name \<name\> --file \<filename\>.yml
 
 - Install with conda-pack (distributable)
 	- See https://conda.github.io/conda-pack/
