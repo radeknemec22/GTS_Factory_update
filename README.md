@@ -4,13 +4,11 @@ Repository containing [Miniconda3](https://docs.conda.io) environment used for G
 ## Install Miniconda
 - Miniconda3, conda v4.7.12 --> Python 2 and 3
 
-Run the executable as administrator to install the version you need with the following options:
-- Install for all users
-- Add to path: yes
-- Register Python: yes
-- Install directory: C:\Miniconda3<br>
-
-\* If you install Miniconda elsewhere, change the location in the config.txt file.
+Run the executable as administrator to install Miniconda with following options:
+- Install for: All users
+- Install directory: C:\Miniconda3
+- Add Anaconda to the system PATH: yes
+- Register Anaconda as the system Python 3.7: yes
 
 ## Install conda environment
 Conda environtments can either be installed with the batch-files of manually.
